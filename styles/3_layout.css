@@ -13,7 +13,7 @@ body {
 .nav_item {
   border:none;
   position: fixed;
-  top: 0px;
+  top: 0;
   width: 100%;
   font-size: 1.8rem;
   height: 75px;
@@ -24,7 +24,6 @@ body {
 .content_item {
   width: 90%;
   padding: 50px;
-  border-radius: 8px;
   border-radius: 8px;
   font-size: 1.8rem;
   background-color: blue;

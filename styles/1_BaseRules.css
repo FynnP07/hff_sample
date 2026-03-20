@@ -18,7 +18,7 @@ root {
     font-weight: 300; /* kann man noch verändern */
     font-style: normal;
 }
-:: selection {
+::selection {
     background-color: rgb(168, 247, 164);
     color: black;
 }
